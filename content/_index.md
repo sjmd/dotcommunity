@@ -1,12 +1,14 @@
 ---
-title: "Orientation"
+title: "Dot-Com-Munity"
 chapter: true
 ---
 ### SJMD Course
-# Orientation
+# Dot-Com-Munity
 
-What's "Social Justice, Minus Dogma" all about?
+*Guiding Questions:*
 
-Where is everything located in the course and community?
+What does it take to create a community where you confront a dogma?
 
-How are we going to be humble with our learning and generous with our teaching?
+What’s at stake? How easily can things go wrong?
+
+How can we create a durable container to hold real community?
