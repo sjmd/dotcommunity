@@ -6,7 +6,7 @@ theme = "teach"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
-	editURL = "https://github.com/killermann/dotcommunity/tree/master/content/"
+	editURL = "https://github.com/sjmd/dotcommunity/tree/master/content/"
 	helpURL = "https://sjmd.space/help"
 	description = "Social Justice, Minus Dogma Course + Community"
 	author = "SJMD"
