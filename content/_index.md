@@ -5,7 +5,7 @@ chapter: true
 ### SJMD Course
 # Dot-Com-Munity
 
-*Guiding Questions:*
+##### Guiding Questions:
 
 What does it take to create a community where you confront a dogma?
 
