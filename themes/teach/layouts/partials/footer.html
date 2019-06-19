@@ -1,0 +1,19 @@
+            {{ if .Params.chapter }}
+                </div> <!-- end chapter-->
+            {{ end }}
+            {{ if .Params.checkpoint }}
+                </div> <!-- end checkpoint-->
+            {{ end }}
+            </div>
+            {{ partial "custom-comments.html" . }}
+        </div>
+    </main><!--/body-->
+    <script data-no-instant src="{{"js/jquery-3.3.1.min.js"| relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+    <script data-no-instant src="{{"js/modernizr.custom-3.6.0.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+    <script data-no-instant src="{{"js/instantclick.min.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+    {{ partial "custom-footer.html" . }}
+    <script src="{{"js/teach.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+    {{ partial "custom-footer.html" . }}
+    <script data-no-instant>InstantClick.init();</script>
+  </body>
+</html>
