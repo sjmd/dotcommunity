@@ -1,0 +1,3 @@
+[submodule "themes/teach"]
+	path = themes/teach
+	url = https://github.com/killermann/hugo-theme-teach
