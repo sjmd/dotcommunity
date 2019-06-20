@@ -1,7 +1,7 @@
 ---
 title: "What is \"Real\" Community?"
 weight: 1
-discourse: "https://community.sjmd.space/t/what-is-real-community/29/2"
+discourse: "https://community.sjmd.space/t/what-is-real-community/"
 ---
 
 Let's start by making sure we're all on the same page about what the goal is here. **Community** is a word that gets thrown around a lot these days, and has been diluted in its meaning.
