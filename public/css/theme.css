@@ -134,6 +134,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
 	color: white;
 	font-size: 24px;
 	margin: 0 .25em;
+	line-height: 1;
 	letter-spacing: .04em;
 	text-rendering: optimizeLegibility;
 }
@@ -409,6 +410,10 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
         position: static;
         padding: 0;
     }
+
+	#header span {
+		font-size: 18px;
+	}
 }
 @media only all and (max-width: 47.938em) {
     #body .padding {
@@ -426,6 +431,15 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
 
 	#body-inner ul {
 		list-style: none;
+		margin: 1.5em 0;
+	}
+
+	#body-inner ol {
+		margin: 1.5em 0;
+	}
+
+	#body-inner section.type-wrap {
+		padding-bottom: 1em;
 	}
 
 	.entry-title {
@@ -768,7 +782,7 @@ h2:hover .anchor, h3:hover .anchor, h4:hover .anchor, h5:hover .anchor, h6:hover
 }
 
 p {
-    margin: 1rem 0;
+    margin: 1.5em 0;
 }
 
 figcaption h4 {
