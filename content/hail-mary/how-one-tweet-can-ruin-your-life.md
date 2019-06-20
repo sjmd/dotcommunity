@@ -9,4 +9,4 @@ Because we're working to create community online, it's important for us to be aw
 We can't think of a better way to do that than to point you to Jon Ronson. Watch his TED talk, or read his book, and you'll beging to get sense of how fragile this project is.
 
 - {{% icon watch %}} [TED: How One Tweet Can Ruin Your Life / Jon Ronson](https://www.youtube.com/watch?v=wAIP6fI0NAI)
-- {{% icon read %}} [BOOK: So You’ve Been Publicly Shamed / Jon Ronson](https://www.indiebound.org/book/9781594487132)
+- {{% icon read %}} [BOOK: So You’ve Been Publicly Shamed / Jon Ronson](https://www.worldcat.org/title/so-youve-been-publicly-shamed/oclc/941726442&referer=brief_results)
