@@ -438,10 +438,6 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
 		margin: 1.5em 0;
 	}
 
-	#body-inner section.type-wrap {
-		padding-bottom: 1em;
-	}
-
 	.entry-title {
 		margin: 4vw auto;
 	}
