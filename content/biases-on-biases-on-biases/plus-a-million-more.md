@@ -13,7 +13,7 @@ Even that feeling itself _is a cognitive bias_ called [selection bias](https://e
 
 At the risk of this course straying from being "Social Justice, Minus Dogma" into "Cognitive Biases, Plus Cognitive Biases" **we're not going to attempt to list them all, nor expect you to know them all.**
 
-Just know that, like Seinfeld episodes, there's a cognitive bias to explain just about every irrational decision or viewpoint you might encounter.
+Just know that there's a cognitive bias to explain just about every irrational decision or viewpoint you might encounter. (Like how there's a _Seinfeld_ episode for every life situation.)
 
 If you want to dig into a few more that weren't among the 20 in the edugraphic, **here are a few that we see as particularly common in social justice dogma conversations:**
 
