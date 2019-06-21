@@ -2,6 +2,7 @@
 title: "Worry Sharing"
 weight: 4
 reply: "https://hues.typeform.com/to/Fz5pDk"
+typeform: true
 ---
 
 We'd love to hear what came up during your fieldwork. And how worried (or not) you feel about the reprecussions of making a misstep online.
