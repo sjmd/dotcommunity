@@ -11,4 +11,5 @@ We did: we're talking about tricky, loaded, taboo subjects, in ways that are eas
 
 Focusing on a particular detail that spelled doom for Slate Star Codex, **what ideas do you have for how you can actively prevent this community from following that one's fate?**
 
-**Share them with us by following the prompts on the form.**
+<center><small>**Reply by following the prompts**</small></center>
+<center>👇</center>

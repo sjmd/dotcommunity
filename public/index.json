@@ -35,11 +35,25 @@
 	"content": "Because we\u0026rsquo;re working to create community online, it\u0026rsquo;s important for us to be aware of the unique vulnerabilities we\u0026rsquo;re exposing ourselves to here.\nWe can\u0026rsquo;t think of a better way to do that than to point you to Jon Ronson. Watch his TED talk, or read his book, and you\u0026rsquo;ll begin to get sense of how fragile this project is.\n   TED: How One Tweet Can Ruin Your Life / Jon Ronson   BOOK: So You’ve Been Publicly Shamed / Jon Ronson  "
 },
 {
+	"uri": "/safely-sailing-the-server-seas/speak-up-and-stay-safe-r/",
+	"title": "Speak Up &amp; Stay Safe(r)",
+	"tags": [],
+	"description": "",
+	"content": "We recommend you check out this robust walkthrough created by Jaclyn Friedman, Anita Sarkeesian, and Renee Bracey Sherman:\n   GUIDE: Speak Up \u0026amp; Stay Safe(r)  We\u0026rsquo;ll highlight a few ways we suggest you implement their guidance for this Course + Community, and the conversations we hope you\u0026rsquo;ll be having as a result of it.\n"
+},
+{
 	"uri": "/when-community-crumbles/rip-culture-war-thread/",
 	"title": "RIP Culture War Thread",
 	"tags": [],
 	"description": "",
 	"content": "Not having read Slate Star Codex, or being aware of the \u0026ldquo;Culture War Thread\u0026rdquo; being discussed here, we stumbled upon the following blog post. It provides all the context you need, and is an enlightening perspective into an online community that combusted.\nThink of it like an autopsy, performed by cultural coroner.\nGive the whole thing a read, it\u0026rsquo;s time well spent:\n   BLOG: RIP Culture War Thread / Scott Alexander  "
+},
+{
+	"uri": "/safely-sailing-the-server-seas/stop-using-that-password/",
+	"title": "Stop Using that Password",
+	"tags": [],
+	"description": "",
+	"content": "Do you have one password, maybe with like 11 different variations based on requirements, that you used to create your SJMD account?\n(Add a !, \u0026ldquo;Did that work? No?\u0026rdquo;\u0026rdquo; Capitalize the first letter, \u0026ldquo;Okay, all set.\u0026rdquo;)\nWe hear you. We understand. We were you, once. We miss that Us sometimes.\nNow change it.\nYou can access your account by going to sjmd.memberful.com. We\u0026rsquo;ll even magic it into a pop-up on this page to make it even easier.\nFollow the guide\u0026rsquo;s password advice and set up a password that makes Fort Knox look inviting.\nwindow.MemberfulOptions = {site: \"https://sjmd.memberful.com\"}; (function() { var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'https://d35xxde4fgg0cx.cloudfront.net/assets/embedded.js'; setup = function() { window.MemberfulEmbedded.setup(); } s.addEventListener(\"load\", setup, false); ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s ); })();  "
 },
 {
 	"uri": "/hail-mary/what-worries-us/",
@@ -60,7 +74,21 @@
 	"title": "Long Live the Thread",
 	"tags": [],
 	"description": "",
-	"content": "As you were reading the autopsy, you might have noticed some similarities between \u0026ldquo;The Culture Thread\u0026rdquo; and the community we\u0026rsquo;re trying to create here.\nWe did: we\u0026rsquo;re talking about tricky, loaded, taboo subjects, in ways that are easily undermined by outsiders and insiders alike, and we\u0026rsquo;re doing so online (anonymously).\nFocusing on a particular detail that spelled doom for Slate Star Codex, what ideas do you have for how you can actively prevent this community from following that one\u0026rsquo;s fate?\nShare them with us by following the prompts on the form.\n"
+	"content": "As you were reading the autopsy, you might have noticed some similarities between \u0026ldquo;The Culture Thread\u0026rdquo; and the community we\u0026rsquo;re trying to create here.\nWe did: we\u0026rsquo;re talking about tricky, loaded, taboo subjects, in ways that are easily undermined by outsiders and insiders alike, and we\u0026rsquo;re doing so online (anonymously).\nFocusing on a particular detail that spelled doom for Slate Star Codex, what ideas do you have for how you can actively prevent this community from following that one\u0026rsquo;s fate?\nReply by following the prompts 👇\n"
+},
+{
+	"uri": "/safely-sailing-the-server-seas/",
+	"title": "Safely Sailing the Server Seas",
+	"tags": [],
+	"description": "",
+	"content": " Dot-Com-Munity Safely Sailing the Server Seas We want to make sure you know how to protect yourself online, should you choose to do so or feel the need.\nIf doxxing, password managers, and 2FA are jibberish to you, come right this way.\n"
+},
+{
+	"uri": "/safely-sailing-the-server-seas/un-doxx-able/",
+	"title": "Un-Doxx-Able",
+	"tags": [],
+	"description": "",
+	"content": "Now make yourself un-doxx-able by considering (at least) these three things:\n Change your username if your name is unique or easily identifiable. community.sjmd.space \u0026gt; click on your user icon, click the cog ⚙️ \u0026gt; Preferences \u0026gt; Username \u0026gt; click edit icon (pencil) Change your profile picture to something that isn\u0026rsquo;t reverse-image-search-able.community.sjmd.space \u0026gt; click on your user icon, click the cog ⚙️ \u0026gt; Preferences \u0026gt; Profile Picture \u0026gt; click edit icon (pencil) Change your location if you\u0026rsquo;re in a small town, or the only person in your area doing social justice work.community.sjmd.space \u0026gt; click on your user icon, click the cog ⚙️ \u0026gt; Preferences \u0026gt; Profile (sidebar link) \u0026gt; Location  "
 },
 {
 	"uri": "/hail-mary/worry-sharing/",
@@ -70,9 +98,23 @@
 	"content": "We\u0026rsquo;d love to hear what came up during your fieldwork. And how worried (or not) you feel about the reprecussions of making a misstep online.\nTo tell us, click the \u0026ldquo;Reply\u0026rdquo; button below to respond.\n(Course note: this, like all of the \u0026ldquo;Reply\u0026rdquo; prompts, is mostly for the Facilitators. It\u0026rsquo;s not linked to your membership account. And anything we share to the community will be anonymized, removing any identifying details.)\n"
 },
 {
+	"uri": "/safely-sailing-the-server-seas/specifically-vague/",
+	"title": "Be Specifically Vague",
+	"tags": [],
+	"description": "",
+	"content": "Whenever you\u0026rsquo;re sharing examples in the Community, talking about yourself, or referring to other people, be specifically vague.\nWhat we mean by this is that words like \u0026ldquo;someone\u0026rdquo; or \u0026ldquo;somewhere\u0026rdquo; (super vague ✅) are unhelpful. They don\u0026rsquo;t provide enough context for meaningful dialogue.\nAnd identifiers like \u0026ldquo;Ted \u0026lsquo;Theodore\u0026rsquo; Logan\u0026rdquo; or \u0026ldquo;San Dimas High School\u0026rdquo; are unsafely specific. (Don\u0026rsquo;t catch the reference?)\nInstead, be specifically vague by saying \u0026ldquo;a student at a California urban high school\u0026rdquo; we get all the context we need, without the risk. You can even say \u0026ldquo;he\u0026rsquo;s breathtaking.\u0026rdquo; (If you didn\u0026rsquo;t catch that reference, you\u0026rsquo;re on your own.)\n"
+},
+{
 	"uri": "/hail-mary/the-long-shot/",
 	"title": "The Long Shot",
 	"tags": [],
 	"description": "",
 	"content": "With that definition in mind, and knowing how easily one tweet can ruin your life, creating real community is a long shot. Creating it online is even harder. And creating it, and sustaining it, when talking about social justice dogma \u0026ndash; or any hot-button, volatile issue \u0026ndash; is nigh impossible.\nBut if we can figure out a way to work \u0026ldquo;nigh\u0026rdquo; into a sentence in 2019, we can figure out a way to create authentic connection and interdependence online.\nIn the rest of this Module \u0026ldquo;Dot-Com-Munity\u0026rdquo;, we\u0026rsquo;ll be elaborating on how things blow up online, how to protect yourself (and ourselves), some of the forces at play, and some counter-forces we can apply.\n"
+},
+{
+	"uri": "/safely-sailing-the-server-seas/consider-this-your-warning/",
+	"title": "Consider this Your Warning",
+	"tags": [],
+	"description": "",
+	"content": "Unfortunately, with things like doxxing and account theft, you don\u0026rsquo;t get a warning. Once it\u0026rsquo;s out, it\u0026rsquo;s out.\nWhile we\u0026rsquo;ll do what we can to prevent malicious people from joining the community, we can\u0026rsquo;t guarantee safety. A lot of it\u0026rsquo;s up to you. So consider this your warning.\nOn the flipside, if you doxx someone \u0026ndash; either by posting private identifying details about someone in a thread or message within the Community, or by sharing someone\u0026rsquo;s personal information elsewhere (e.g., on Facebook) \u0026ndash; you will be banned. Forever.\nConsider this your warning.\n"
 }]
