@@ -72,7 +72,7 @@ a:hover {
 #body a.highlight:after {
     display: block;
     content: "";
-    height: .1em;
+    height: 2px;
     width: 0%;
     background-color: currentColor !important;
     -webkit-transition: width 0.25s ease-out;
@@ -454,13 +454,14 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
 	}
 
 	.type-wrap li + li{
-		margin-top: .5em;
+		margin-top: 1em;
 	}
 
 	li > span.inline-svg {
 		position: absolute;
-	    left: -1.5em;
-	    background: white;
+		margin-top: -.2em;
+		font-size: 1.4em;
+		left: -1.2em;
 	}
 
 	li > input[type="checkbox"]{
@@ -946,13 +947,11 @@ pre {
 	code {
 		background: var(--PRIMARY-COLOR-100);
 		color: var(--PRIMARY-COLOR-900);
-	    padding: .25em .5em;
 	    border-radius: 4px;
 	}
 
 	pre code {
 		font-size: .8em;
-		padding: 0;
 		font-family: var(--sans-serif);
 	}
 

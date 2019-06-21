@@ -1,5 +1,5 @@
 ---
-title: "Consider this Your Warning"
+title: "Consider This Your Warning"
 weight: 6
 ---
 
