@@ -1,7 +1,7 @@
 ---
 title: "When Community Crumbles"
 chapter: true
-weight: 3
+weight: 2
 ---
 ### Dot-Com-Munity
 # When Community Crumbles

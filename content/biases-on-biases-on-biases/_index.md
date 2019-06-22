@@ -1,7 +1,7 @@
 ---
 title: "Biases on Biases on Biases"
 chapter: true
-weight: 5
+weight: 4
 ---
 ### Dot-Com-Munity
 # Biases on Biases on Biases

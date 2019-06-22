@@ -1,7 +1,7 @@
 ---
 title: "A Hail Mary"
 chapter: true
-weight: 2
+weight: 1
 ---
 ### Dot-Com-Munity
 # A Hail Mary

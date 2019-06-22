@@ -1,7 +1,7 @@
 ---
 title: "Safely Sailing the Server Seas"
 chapter: true
-weight: 4
+weight: 3
 ---
 ### Dot-Com-Munity
 # Safely Sailing the Server Seas

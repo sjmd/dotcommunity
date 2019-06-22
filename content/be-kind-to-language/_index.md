@@ -1,7 +1,7 @@
 ---
 title: "Be Kind. To Language."
 chapter: true
-weight: 6
+weight: 5
 ---
 ### Dot-Com-Munity
 # Be Kind. To Language.

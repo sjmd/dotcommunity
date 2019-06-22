@@ -27,7 +27,7 @@
 
 })(jQuery, 'smartresize');
 
-InstantClick.on('change', function() { // Replaces jQuery(window).on('load', function() {
+jQuery(window).on('load', function() { // Replaces  InstantClick.on('change', function() {
 
     jQuery('#sidebar .category-icon').on('click', function() {
         $( this ).toggleClass("fa-angle-down fa-angle-right") ;
@@ -207,4 +207,5 @@ InstantClick.on('change', function() { // Replaces jQuery(window).on('load', fun
     for (var url in localStorage) {
         if (localStorage.getItem(url) == 1) jQuery('[data-nav-id="' + url + '"]').addClass('visited');
     }
+
 });

@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/hail-mary/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
   </url>
   
@@ -15,15 +19,15 @@
   </url>
   
   <url>
-    <loc>/hail-mary/</loc>
-  </url>
-  
-  <url>
     <loc>/be-kind-to-language/avoid-common-phrases/</loc>
   </url>
   
   <url>
     <loc>/hail-mary/how-one-tweet-can-ruin-your-life/</loc>
+  </url>
+  
+  <url>
+    <loc>/redefining-normal/jargon-verboten/</loc>
   </url>
   
   <url>
@@ -35,7 +39,15 @@
   </url>
   
   <url>
+    <loc>/when-community-crumbles/</loc>
+  </url>
+  
+  <url>
     <loc>/biases-on-biases-on-biases/20-cognitive-biases/</loc>
+  </url>
+  
+  <url>
+    <loc>/redefining-normal/appreciative-inquiry/</loc>
   </url>
   
   <url>
@@ -47,6 +59,10 @@
   </url>
   
   <url>
+    <loc>/safely-sailing-the-server-seas/</loc>
+  </url>
+  
+  <url>
     <loc>/safely-sailing-the-server-seas/stop-using-that-password/</loc>
   </url>
   
@@ -55,7 +71,7 @@
   </url>
   
   <url>
-    <loc>/when-community-crumbles/</loc>
+    <loc>/biases-on-biases-on-biases/</loc>
   </url>
   
   <url>
@@ -71,10 +87,6 @@
   </url>
   
   <url>
-    <loc>/safely-sailing-the-server-seas/</loc>
-  </url>
-  
-  <url>
     <loc>/safely-sailing-the-server-seas/un-doxx-able/</loc>
   </url>
   
@@ -83,11 +95,11 @@
   </url>
   
   <url>
-    <loc>/safely-sailing-the-server-seas/specifically-vague/</loc>
+    <loc>/be-kind-to-language/</loc>
   </url>
   
   <url>
-    <loc>/biases-on-biases-on-biases/</loc>
+    <loc>/safely-sailing-the-server-seas/specifically-vague/</loc>
   </url>
   
   <url>
@@ -103,11 +115,11 @@
   </url>
   
   <url>
-    <loc>/be-kind-to-language/</loc>
+    <loc>/safely-sailing-the-server-seas/consider-this-your-warning/</loc>
   </url>
   
   <url>
-    <loc>/safely-sailing-the-server-seas/consider-this-your-warning/</loc>
+    <loc>/redefining-normal/</loc>
   </url>
   
 </urlset>
