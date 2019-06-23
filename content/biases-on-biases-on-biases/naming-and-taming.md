@@ -1,7 +1,7 @@
 ---
 title: "Naming and Taming"
 weight: 5
-discourse: "https://community.sjmd.space/t/naming-and-taming-cognitive-biases"
+discourse: "https://community.sjmd.space/t/naming-and-taming"
 ---
 
 Because we know that cognitive biases are influencing our thinking, that [they are innumerable](https://en.wikipedia.org/wiki/List_of_cognitive_biases), _and_ that they are likely to derail our conversation, we are in a good spot: we can (try to) do something about it.
