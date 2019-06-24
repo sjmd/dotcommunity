@@ -8,4 +8,4 @@ weight: 1
 
 Talking about what we're going to be talking about, and creating real community, _online_ -- well, it's a long shot. But we're here for it.
 
-What is real community? What's at risk? We'll cover both here.
+What is real community? What's at risk? We'll cover both in this topic.
