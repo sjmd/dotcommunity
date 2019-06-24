@@ -1,6 +1,6 @@
 ---
 title: "The Long Shot"
-weight: 5
+weight: 7
 ---
 
 With that definition in mind, and knowing how easily one tweet can ruin your life, creating real community is a long shot. Creating it online is even harder. And creating it, and sustaining it, when talking about social justice dogma -- or any hot-button, volatile issue -- is nigh impossible.

@@ -1,6 +1,6 @@
 ---
 title: "What Worries Us"
-weight: 3
+weight: 5
 ---
 
 Even before you met Jon Ronson, our guess is you had some worries about joining this online community. Further, we bet that people in your lives (who aren't in this course) have some thoughts on this as well.

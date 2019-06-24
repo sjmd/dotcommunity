@@ -1,6 +1,6 @@
 ---
 title: "What is \"Real\" Community?"
-weight: 1
+weight: 3
 discourse: "https://community.sjmd.space/t/what-is-real-community/"
 ---
 

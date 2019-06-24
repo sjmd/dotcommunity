@@ -1,6 +1,6 @@
 ---
 title: "Worry Sharing"
-weight: 4
+weight: 6
 reply: "https://hues.typeform.com/to/Fz5pDk"
 typeform: true
 ---

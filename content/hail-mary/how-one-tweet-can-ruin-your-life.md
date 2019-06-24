@@ -1,6 +1,6 @@
 ---
 title: "How One Tweet Can Ruin Your Life"
-weight: 2
+weight: 4
 discourse: "https://community.sjmd.space/t/how-one-tweet-can-ruin-your-life/"
 ---
 
