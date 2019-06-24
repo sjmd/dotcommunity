@@ -14,6 +14,6 @@ Here's what we are going to commit to do, in the spirit of ["Name it to tame it"
 
 \#3 is the pie in the sky. But \#1 and \#2 are more down to Earth, and might actually work, provided **when we're doing \#1 we simply name (and don't blame)**, and **when we're doing \#2 we focus on the thanking, and not defending/deflecting.**
 
-Ultimately, we also have to commit to something one level up: we're all works in progress, none of us are perfect, and we're going to try our best on this, and fail regularly.
+Ultimately, we also have to commit to something a little bit bigger: that we're all works in progress, none of us are perfect, and we're going to try our best on this, and fail regularly. And that failing, learning, growing, are all okay things to do. Not just on our own but with others present.
 
 What might that look like? Want to practice? **Head to the Community and give it a shot.**
