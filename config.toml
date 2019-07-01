@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
-title = "Dot-Com-Munity"
+title = "Module 1"
 theme = "teach"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 

@@ -3,7 +3,7 @@ title: "Dot-Com-Munity"
 chapter: true
 weight: 1
 ---
-### SJMD Course
+### Module 1
 # Dot-Com-Munity
 
 ##### Guiding Questions:
