@@ -1,7 +1,7 @@
 ---
 title: "How One Tweet Can Ruin Your Life"
 weight: 4
-discourse: "https://community.sjmd.space/t/how-one-tweet-can-ruin-your-life/"
+# discourse: "https://community.sjmd.space/t/how-one-tweet-can-ruin-your-life/"
 ---
 
 Because we're working to create community online, it's important for us to be aware of the unique vulnerabilities we're exposing ourselves to here.

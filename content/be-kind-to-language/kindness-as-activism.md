@@ -1,10 +1,10 @@
 ---
 title: "Kindness as Activism"
 weight: 3
-discourse: "https://community.sjmd.space/t/kindness-as-activism"
+# discourse: "https://community.sjmd.space/t/kindness-as-activism"
 ---
 
-We're also going to be kind. Not _only_ to our language, but to one another, to people outside of our community, and to ideas.
+We're also going to need to be kind. Not _only_ to our language, but to one another, to people outside of our community, and to ideas.
 
 Quoting Tiffany Curtis:
 

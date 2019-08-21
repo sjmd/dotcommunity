@@ -3,7 +3,7 @@ title: "A Forever Disclaimer"
 weight: 2
 ---
 
-Before we get into this particular case, let's make something clear up front: **throughout this course, we're going to be linking you to sources that are "problematic"** (using this word in the social justice sense, meaning "oppressive", "not overtly anti-oppressive", "canceled" or otherwise imperfect).
+Before we get into this particular case, let's make something clear up front: **throughout this course, we're going to be linking you to sources that are "problematic"** (using this word in the social justice sense, meaning "oppressive", "not overtly anti-oppressive", "canceled", and/or otherwise imperfect).
 
 It would be easy to judge that _most of the links will meet that description_. We could even argue, if we wanted, that literally any source, any publication, any author, any etc., is problematic. Maybe we'll do that later.
 

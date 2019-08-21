@@ -14,6 +14,14 @@
     --PRIMARY-COLOR-900: #254050;
 }
 
+::-moz-selection { /* Code for Firefox */
+	background: var(--PRIMARY-COLOR-300);
+}
+
+::selection {
+	background: var(--PRIMARY-COLOR-300);
+}
+
 #instantclick-bar {
 	background: var(--PRIMARY-COLOR-500);
 }

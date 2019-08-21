@@ -7,4 +7,4 @@ We recommend you check out this robust walkthrough created by Jaclyn Friedman, A
 
 - {{% icon read %}} [GUIDE: Speak Up & Stay Safe\(r\)](https://onlinesafety.feministfrequency.com/en/)
 
-We'll highlight a few ways we suggest you implement their guidance for this Course + Community, and the conversations we hope you'll be having as a result of it.
+We'll highlight a few ways we suggest you implement their guidance for the SJMD conversations we hope you'll be having as a result of your participation in this course.
