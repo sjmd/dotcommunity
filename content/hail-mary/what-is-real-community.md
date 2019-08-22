@@ -14,4 +14,4 @@ For a longer definition, we'll draw from [Chapter 22](http://sacred-economics.co
 
 - {{% icon read %}} [CHAPTER: Community and the Unquantifiable / Charles Eisenstein, Sacred Economics](http://sacred-economics.com/sacred-economics-chapter-22-community-and-the-unquantifiable/)
 
-<small>Jot down your responses to this idea of community: What questions does it evoke for you? What concerns? How is this different from community as you've known it? Do you have access to this manifestation of community in your life?</small>
+<small>📝Journal: Jot down your responses to this idea of community: What questions does it evoke for you? What concerns? How is this different from community as you've known it? Do you have access to this manifestation of community in your life?</small>
